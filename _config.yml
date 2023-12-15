@@ -1,7 +1,7 @@
 # Site
-name: 'EpicGames Blog'
-description: 'EpicGames Blog - Epic Gaming, News, Updates and More'
-logo: 'assets/images/logo.png'
+name: 'Epic Games - Latest in Gaming & Tech'
+description: 'Epic Games is your ultimate destination for discovering the latest and greatest in gaming and technology. Dive into a world of top-tier games, cutting-edge tech news, comprehensive reviews, insightful guides, and engaging community discussions.'
+logo: 'assets/images/favicon.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/'
 disqus: 'demowebsite'
@@ -19,12 +19,12 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    epic:
-      name:           Epic
+    adam:
+      name:           Adam
       site:           https://epicgames.in
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Admin, the author of EpicGames. I hope you like it!"
-      email:          epic@gmail.com
+      bio:            "Hello I am Adam, I write for Epic Games & Tech"
+      email:          exmgks@gmail.com
       twitter:        
  
 # Defaults

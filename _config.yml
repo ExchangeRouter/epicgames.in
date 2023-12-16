@@ -22,7 +22,7 @@ authors:
     adam:
       name:           Adam
       site:           https://epicgames.in
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         /assets/images/avatar.jpg
       bio:            "Hello I am Adam, I write for Epic Games & Tech"
       email:          exmgks@gmail.com
       twitter:        
@@ -36,7 +36,7 @@ defaults:
     values:
       layout: post
       author: epic
-      avatar: /assets/images/avatar1.jpg
+      avatar: /assets/images/avatar.jpg
       
   # all pages
   - scope:
